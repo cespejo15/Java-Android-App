@@ -12,4 +12,5 @@ The next screen locates where the phone is:
 
 The final screen includes multiple buttons that make different noises and have different movements when pressed. I used an animation library for these transitions:
 
-![magicbuttons](https://github.com/cespejo15/Java-Android-App/assets/91222019/2726c499-bb2b-4071-9166-539d7a0a8add)
+![magicbuttons](https://github.com/cespejo15/Java-Android-App/assets/91222019/e240201c-5dbb-45dc-9587-4d6f14b014b7)
+
